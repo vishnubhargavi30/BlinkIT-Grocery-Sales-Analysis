@@ -29,6 +29,15 @@ This project analyzes BlinkIT grocery sales data using SQL and MySQL Workbench t
 ## Project Files
 - `blinkit_grocery.sql` — SQL queries used for analysis
 - `BlinkIT_SQL_Project_Analysis.pptx` — Project presentation
+  
+## Key Findings
 
-## Author
-Vishnu Bhargavi
+- Fruits and Vegetables generated the highest sales among item categories.
+- Grocery Stores recorded the highest average rating.
+- Sales performance varied across outlet types and location tiers.
+- Outlet size contributed differently to overall sales distribution.
+- Outlet establishment year was explored to understand sales patterns.
+
+## Conclusion
+
+This project used SQL to analyze BlinkIT grocery sales data and identify patterns across product categories, outlet characteristics, sales distribution, and customer ratings.
