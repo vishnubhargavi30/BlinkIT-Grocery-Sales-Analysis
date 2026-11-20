@@ -38,6 +38,26 @@ This project analyzes BlinkIT grocery sales data using SQL and MySQL Workbench t
 - Outlet size contributed differently to overall sales distribution.
 - Outlet establishment year was explored to understand sales patterns.
 
+## SQL Analysis Results
+
+### Sales by Item Type
+![Sales by Item Type](sales_by_item_type.png)
+
+### Sales by Outlet Type
+![Sales by Outlet Type](sales_by_outlet_type.png)
+
+### Sales by Outlet Size
+![Sales by Outlet Size](sales_by_outlet_size.png)
+
+### Top 5 Item Types
+![Top 5 Items](top_5_items.png)
+
+### Sales by Location Tier
+![Sales by Location Tier](sales_by_location_tier.png)
+
+### Sales by Establishment Year
+![Sales by Establishment Year](sales_by_establishment_year.png)
+
 ## Conclusion
 
 This project used SQL to analyze BlinkIT grocery sales data and identify patterns across product categories, outlet characteristics, sales distribution, and customer ratings.
